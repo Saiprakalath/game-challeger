@@ -1,4 +1,4 @@
-# React + TypeScript + Vite (Challeger App)
+# React + TypeScript + Vite (Game Challeger App)
 
 This project is a React application built with Vite and TypeScript. It utilizes TailwindCSS for styling and Jest along with React Testing Library for testing.
 
@@ -39,7 +39,3 @@ This project is a React application built with Vite and TypeScript. It utilizes 
 
     2. React Testing Library is used to simulate user interactions and verify DOM behavior.
 
-
-
-
-# game-challeger
